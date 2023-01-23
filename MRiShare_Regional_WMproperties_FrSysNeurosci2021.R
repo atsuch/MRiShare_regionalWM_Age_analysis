@@ -15,7 +15,7 @@ library(gtsummary)
 library(GGally)
 options(na.action = na.warn)
 
-setwd("/Users/amitsuchida/Dropbox (GIN)/Ami-work/MRiShare/NODDI_paper/20210201_FrSystNSci_Tsuchida_MRI-Share_NODDI/Rcode_data_for_Frontiers_submission/")
+setwd("/PATH-to-working-dir/")
 
 dir.create("Results")
 
