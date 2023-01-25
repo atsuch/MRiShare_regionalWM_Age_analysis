@@ -6,7 +6,7 @@ Tsuchida et al., (2021) "Age-related variations in regional white matter volumet
 
 ## Usage Notes
 
-To reproduce the figures/tables in the associated publication, download dataset asociated with the paper from https://datadryad.org/stash/dataset/doi:10.5061/dryad.cvdncjt4m and place it in 'data'folder.
+To reproduce the figures/tables in the associated publication, download dataset asociated with the paper from https://datadryad.org/stash/dataset/doi:10.5061/dryad.cvdncjt4m and place it in 'data' folder.
 
 ## Citation
 
